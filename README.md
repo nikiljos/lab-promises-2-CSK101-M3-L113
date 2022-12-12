@@ -1,5 +1,7 @@
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.nikjos.in/open?repo=nikiljos/lab-promises-2-CSK101-M3-L113)
+
 ## How to approach this lab:
 
 **NOTE:** Before coming to this lab - it is compulsory to complete the lab on callbacks.
